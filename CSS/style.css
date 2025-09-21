@@ -222,11 +222,9 @@ span{
     21%, 40%{
         content:"Programadora";
     }
-    41%,60%{
-        content:"Analista de Dados";
-    }
     81%, 100%{
-        content:"Ciencia de Dados";
+        content:"Analista de Dados";
+        
     }
 }
 
